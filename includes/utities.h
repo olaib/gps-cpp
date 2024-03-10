@@ -62,3 +62,4 @@ const std::vector<IntVec> SV_OUTPUTS{
         OutputPosition{2, 8}, // PRN #36
         OutputPosition{4, 10} // PRN #37
 };
+

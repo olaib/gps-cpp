@@ -1,6 +1,7 @@
 #pragma once
 
 #include<utities.h>
+#include <numeric>
 
 //class BitwiseOperations {
 //public:
